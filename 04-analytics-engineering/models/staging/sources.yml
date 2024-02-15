@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: staging
+    database: dezoomcamp-409909
+    schema: ny_taxi
+
+    tables:
